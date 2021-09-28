@@ -8,3 +8,5 @@
 ##### [21년 9월]
 - 로또의 최고 순위와 최저 순위 - 21. 09. 08
   - https://programmers.co.kr/learn/courses/30/lessons/77484?language=javascript
+- 전화번호 목록 - 21. 09. 28
+  - https://programmers.co.kr/learn/courses/30/lessons/42577
